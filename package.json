@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "nanoid": "^3.3.1",
+    "npm": "^8.5.4"
+  },
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "test": "Tes",
+    "lint": "eslint ./"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "nodemon": "^2.0.15"
+  },
+  "name": "dicoding_submission_willylase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Willy Kurniaman Lase",
+  "license": "ISC",
+  "description": "Project Submission Kelas Dicoding Belajar Backend untuk pemula"
+}
